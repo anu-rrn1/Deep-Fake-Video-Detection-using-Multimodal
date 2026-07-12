@@ -3,6 +3,9 @@ Developed a multimodal deepfake detection framework using PyTorch, OpenCV, Libro
 
 Tech Stack: PyTorch, Scikit-learn, OpenCV, Librosa, Torchaudio, and FFmpeg
 
+Best_Model_Weights:
+https://drive.google.com/file/d/1-0Yot4rhBToLqrbVUAdsEUtbjrVynSRL/view?usp=sharing
+
 Results:
 https://docs.google.com/document/d/1FjeknTPRXYBgYp797e0lTuQLmhtad4WA/edit?usp=drive_link&ouid=113986212125389449141&rtpof=true&sd=true
 
